@@ -1,7 +1,3 @@
-Voici un exemple clair et structuré du contenu que tu peux mettre dans un fichier `README.md` pour **Exercice 2 – Programmation orientée objet** :
-
----
-
 # Exercice 2 – Programmation Orientée Objet (Dart)
 
 ## Objectifs pédagogiques
