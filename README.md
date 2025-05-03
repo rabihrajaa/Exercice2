@@ -2,7 +2,6 @@ Voici un exemple clair et structuré du contenu que tu peux mettre dans un fichi
 
 ---
 
-```markdown
 # Exercice 2 – Programmation Orientée Objet (Dart)
 
 ## Objectifs pédagogiques
